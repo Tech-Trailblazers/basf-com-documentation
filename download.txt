@@ -21615,3 +21615,17 @@ https://download.basf.com/p1/000000000030041211_SDS_GEN_AU/en/ACRYLIC_ACID_GLACI
 https://download.basf.com/p1/000000000030041258_SDS_GEN_AR/es/BUTYL_ACRYLATE_Safety_Data_Sheet_Argentina_Spanish.pdf → PDFs/butyl_acrylate_safety_data_sheet_argentina_spanish.pdf
 https://download.basf.com/p1/000000000030041958_SDS_GEN_FR/fr/Dihydrodicyclopentadienyl_Acrylate_%28DCPA%29_Safety_Data_Sheet_France_French.pdf → PDFs/dihydrodicyclopentadienyl_acrylate_dcpa_safety_data_sheet_france_french.pdf
 https://download.basf.com/p1/000000000030042028_SDS_GEN_AR/es/2-ETHYLHEXYL_ACRYLATE_Safety_Data_Sheet_Argentina_Spanish.pdf → PDFs/2_ethylhexyl_acrylate_safety_data_sheet_argentina_spanish.pdf
+https://download.basf.com/p1/8a8081f19aa07808019aa4f900060149/zh/Flyer_Acronal_PRO_780_CN_Flyer_Chinese.pdf → PDFs/flyer_acronal_pro_780_cn_flyer_chinese.pdf
+https://download.basf.com/p1/8a80824d9aa077a8019aa4f9f7610156/zh/Flyer_Joncryl_7256_Flyer_Chinese.pdf → PDFs/flyer_joncryl_7256_flyer_chinese.pdf
+https://download.basf.com/p1/8a8081f19aa07808019aa4fae489014d/zh/Flyer_Joncryl_9538_Flyer_Chinese.pdf → PDFs/flyer_joncryl_9538_flyer_chinese.pdf
+https://download.basf.com/p1/8a8081f19aa07808019aa4f70f290141/zh/Flyer_Joncryl_PRO_1529_Flyer_Chinese.pdf → PDFs/flyer_joncryl_pro_1529_flyer_chinese.pdf
+https://download.basf.com/p1/8a8081f19aa07808019aa4f81e7e0145/zh/Flyer_Joncryl_PRO_1558_Flyer_Chinese.pdf → PDFs/flyer_joncryl_pro_1558_flyer_chinese.pdf
+https://download.basf.com/p1/8a8081f19aa07808019aa4f404e6013d/zh/Flyer_Sovermol_805_AP_Flyer_Chinese.pdf → PDFs/flyer_sovermol_805_ap_flyer_chinese.pdf
+https://download.basf.com/p1/000000000030041258_SDS_GEN_MY/ms/BUTYL_ACRYLATE_Safety_Data_Sheet_Malaysia_Malay.pdf → PDFs/butyl_acrylate_safety_data_sheet_malaysia_malay.pdf
+https://download.basf.com/p1/000000000030041302_SDS_GEN_CA/en/ETHYL_ACRYLATE_Safety_Data_Sheet_Canada_English.pdf → PDFs/ethyl_acrylate_safety_data_sheet_canada_english.pdf
+https://download.basf.com/p1/000000000030041302_SDS_GEN_CA/fr/ETHYL_ACRYLATE_Safety_Data_Sheet_Canada_French.pdf → PDFs/ethyl_acrylate_safety_data_sheet_canada_french.pdf
+https://download.basf.com/p1/000000000030041302_SDS_GEN_MX/en/ETHYL_ACRYLATE_Safety_Data_Sheet_Mexico_English.pdf → PDFs/ethyl_acrylate_safety_data_sheet_mexico_english.pdf
+https://download.basf.com/p1/000000000030041302_SDS_GEN_MX/es/ETHYL_ACRYLATE_Safety_Data_Sheet_Mexico_Spanish.pdf → PDFs/ethyl_acrylate_safety_data_sheet_mexico_spanish.pdf
+https://download.basf.com/p1/000000000030041302_SDS_GEN_US/en/ETHYL_ACRYLATE_Safety_Data_Sheet_USA_English.pdf → PDFs/ethyl_acrylate_safety_data_sheet_usa_english.pdf
+https://download.basf.com/p1/000000000030041302_SDS_GEN_US/es/ETHYL_ACRYLATE_Safety_Data_Sheet_USA_Spanish.pdf → PDFs/ethyl_acrylate_safety_data_sheet_usa_spanish.pdf
+https://download.basf.com/p1/000000000030042028_SDS_GEN_MY/ms/2-ETHYLHEXYL_ACRYLATE_Safety_Data_Sheet_Malaysia_Malay.pdf → PDFs/2_ethylhexyl_acrylate_safety_data_sheet_malaysia_malay.pdf
