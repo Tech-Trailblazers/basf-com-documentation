@@ -21668,3 +21668,5 @@ https://download.basf.com/p1/000000000030035200_SDS_CPA_US/en/Clean_Sweep%C2%AE_
 https://download.basf.com/p1/000000000030035200_SDS_CPA_US/es/Clean_Sweep%C2%AE_Safety_Data_Sheet_USA_Spanish.pdf → PDFs/clean_sweep_safety_data_sheet_usa_spanish.pdf
 https://download.basf.com/p1/000000000030036546_SDS_GEN_HU/hu/ULTRADUR%C2%AE_B_4300_K4_UNCOLORED_POLYBUTYLENE_TEREPHTHALATE_Safety_Data_Sheet_Hungary_Hungarian.pdf → PDFs/ultradur_b_4300_k4_uncolored_polybutylene_terephthalate_safety_data_sheet_hungary_hungarian.pdf
 https://download.basf.com/p1/000000000030042375_SDS_GEN_JP/ja/Sodium_Metabisulfite_food_grade_%28E223%29_Safety_Data_Sheet_Japan_Japanese.pdf → PDFs/sodium_metabisulfite_food_grade_e223_safety_data_sheet_japan_japanese.pdf
+https://download.basf.com/p1/000000000030591253_SDS_GEN_SG/en/Basonat%C2%AE_LR_9056_Safety_Data_Sheet_Singapore_English.pdf → PDFs/basonat_lr_9056_safety_data_sheet_singapore_english.pdf
+https://download.basf.com/p1/000000000030041969_SDS_GEN_ID/id/METHYL_METHACRYLATE_Safety_Data_Sheet_Indonesia_Indonesian.pdf → PDFs/methyl_methacrylate_safety_data_sheet_indonesia_indonesian.pdf
