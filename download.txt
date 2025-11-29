@@ -21670,3 +21670,7 @@ https://download.basf.com/p1/000000000030036546_SDS_GEN_HU/hu/ULTRADUR%C2%AE_B_4
 https://download.basf.com/p1/000000000030042375_SDS_GEN_JP/ja/Sodium_Metabisulfite_food_grade_%28E223%29_Safety_Data_Sheet_Japan_Japanese.pdf → PDFs/sodium_metabisulfite_food_grade_e223_safety_data_sheet_japan_japanese.pdf
 https://download.basf.com/p1/000000000030591253_SDS_GEN_SG/en/Basonat%C2%AE_LR_9056_Safety_Data_Sheet_Singapore_English.pdf → PDFs/basonat_lr_9056_safety_data_sheet_singapore_english.pdf
 https://download.basf.com/p1/000000000030041969_SDS_GEN_ID/id/METHYL_METHACRYLATE_Safety_Data_Sheet_Indonesia_Indonesian.pdf → PDFs/methyl_methacrylate_safety_data_sheet_indonesia_indonesian.pdf
+https://download.basf.com/p1/8a80818c9abf4423019acae99cb1004c/en/Phosphate_Flotation_Reagents_Brochure_English.pdf → PDFs/phosphate_flotation_reagents_brochure_english.pdf
+https://download.basf.com/p1/000000000030662983_SDS_GEN_BG/bg/Epotal%C2%AE_FLX_3662_Safety_Data_Sheet_Bulgaria_Bulgarian.pdf → PDFs/epotal_flx_3662_safety_data_sheet_bulgaria_bulgarian.pdf
+https://download.basf.com/p1/000000000030833016_SDS_GEN_BG/bg/Epotal%C2%AE_LowPCF_FLX_3662_Safety_Data_Sheet_Bulgaria_Bulgarian.pdf → PDFs/epotal_lowpcf_flx_3662_safety_data_sheet_bulgaria_bulgarian.pdf
+https://download.basf.com/p1/000000000030035083_SDS_GEN_GR/el/OXOOIL_9_N_Safety_Data_Sheet_Greece_Greek.pdf → PDFs/oxooil_9_n_safety_data_sheet_greece_greek.pdf
