@@ -21674,3 +21674,4 @@ https://download.basf.com/p1/8a80818c9abf4423019acae99cb1004c/en/Phosphate_Flota
 https://download.basf.com/p1/000000000030662983_SDS_GEN_BG/bg/Epotal%C2%AE_FLX_3662_Safety_Data_Sheet_Bulgaria_Bulgarian.pdf → PDFs/epotal_flx_3662_safety_data_sheet_bulgaria_bulgarian.pdf
 https://download.basf.com/p1/000000000030833016_SDS_GEN_BG/bg/Epotal%C2%AE_LowPCF_FLX_3662_Safety_Data_Sheet_Bulgaria_Bulgarian.pdf → PDFs/epotal_lowpcf_flx_3662_safety_data_sheet_bulgaria_bulgarian.pdf
 https://download.basf.com/p1/000000000030035083_SDS_GEN_GR/el/OXOOIL_9_N_Safety_Data_Sheet_Greece_Greek.pdf → PDFs/oxooil_9_n_safety_data_sheet_greece_greek.pdf
+https://download.basf.com/p1/000000000030041908_SDS_GEN_KR/ko/ULTRAMID%C2%AE_A3WG5_UNCOLORED_POLYAMIDE_Safety_Data_Sheet_South_Korea_Korean.pdf → PDFs/ultramid_a3wg5_uncolored_polyamide_safety_data_sheet_south_korea_korean.pdf
