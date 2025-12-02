@@ -21676,3 +21676,8 @@ https://download.basf.com/p1/000000000030833016_SDS_GEN_BG/bg/Epotal%C2%AE_LowPC
 https://download.basf.com/p1/000000000030035083_SDS_GEN_GR/el/OXOOIL_9_N_Safety_Data_Sheet_Greece_Greek.pdf → PDFs/oxooil_9_n_safety_data_sheet_greece_greek.pdf
 https://download.basf.com/p1/000000000030041908_SDS_GEN_KR/ko/ULTRAMID%C2%AE_A3WG5_UNCOLORED_POLYAMIDE_Safety_Data_Sheet_South_Korea_Korean.pdf → PDFs/ultramid_a3wg5_uncolored_polyamide_safety_data_sheet_south_korea_korean.pdf
 https://download.basf.com/p1/000000000030041302_SDS_GEN_CN/zh/ETHYL_ACRYLATE_Safety_Data_Sheet_China_%28Mainland%29_Chinese.pdf → PDFs/ethyl_acrylate_safety_data_sheet_china_mainland_chinese.pdf
+https://download.basf.com/p1/000000000030679962_SDS_GEN_NL/nl/Emuldur%C2%AE_381_A_Safety_Data_Sheet_Netherlands_Dutch.pdf → PDFs/emuldur_381_a_safety_data_sheet_netherlands_dutch.pdf
+https://download.basf.com/p1/000000000030860559_SDS_GEN_UA/uk/AQACell%C2%AE_MB_HIDE_6399_Safety_Data_Sheet_Ukraine_Ukrainian.pdf → PDFs/aqacell_mb_hide_6399_safety_data_sheet_ukraine_ukrainian.pdf
+https://download.basf.com/p1/000000000030862018_SDS_GEN_NL/nl/Acronal%C2%AE_BC_5061_X_Safety_Data_Sheet_Netherlands_Dutch.pdf → PDFs/acronal_bc_5061_x_safety_data_sheet_netherlands_dutch.pdf
+https://download.basf.com/p1/000000000030034839_SDS_GEN_LT/lt/ISOBUTANOL_Safety_Data_Sheet_Lithuania_Lithuanian.pdf → PDFs/isobutanol_safety_data_sheet_lithuania_lithuanian.pdf
+https://download.basf.com/p1/000000000030042375_SDS_GEN_AT/de/Sodium_Metabisulfite_food_grade_%28E223%29_Safety_Data_Sheet_Austria_German.pdf → PDFs/sodium_metabisulfite_food_grade_e223_safety_data_sheet_austria_german.pdf
