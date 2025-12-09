@@ -21844,3 +21844,12 @@ https://download.basf.com/p1/000000000030863653_SDS_GEN_00/es/Acronal%C2%AE_5592
 https://download.basf.com/p1/000000000030861200_SPE_GEN_P/en/Joncryl%C2%AE_LOD_7622_Specification_Data_Sheet_English.pdf → PDFs/joncryl_lod_7622_specification_data_sheet_english.pdf
 https://download.basf.com/p1/000000000030863678_ISP_GEN_RW/en/Rheovis%C2%AE_HS_1169_MB_Information_Sheet_Product_Safety_English.pdf → PDFs/rheovis_hs_1169_mb_information_sheet_product_safety_english.pdf
 https://download.basf.com/p1/000000000030863679_ISP_GEN_RW/en/Rheovis%C2%AE_PU_1333_MB_Information_Sheet_Product_Safety_English.pdf → PDFs/rheovis_pu_1333_mb_information_sheet_product_safety_english.pdf
+https://download.basf.com/p1/000000000030856330_SDS_GEN_FI/fi/Styronal%C2%AE_8440_X_F_Safety_Data_Sheet_Finland_Finnish.pdf → PDFs/styronal_8440_x_f_safety_data_sheet_finland_finnish.pdf
+https://download.basf.com/p1/000000000030856330_SDS_GEN_DE/en/Styronal%C2%AE_8440_X_F_Safety_Data_Sheet_Germany_English.pdf → PDFs/styronal_8440_x_f_safety_data_sheet_germany_english.pdf
+https://download.basf.com/p1/000000000030856330_SDS_GEN_DE/de/Styronal%C2%AE_8440_X_F_Safety_Data_Sheet_Germany_German.pdf → PDFs/styronal_8440_x_f_safety_data_sheet_germany_german.pdf
+https://download.basf.com/p1/000000000030856330_SDS_GEN_SE/sv/Styronal%C2%AE_8440_X_F_Safety_Data_Sheet_Sweden_Swedish.pdf → PDFs/styronal_8440_x_f_safety_data_sheet_sweden_swedish.pdf
+https://download.basf.com/p1/000000000030856330_SDS_GEN_00/en/Styronal%C2%AE_8440_X_F_Safety_Data_Sheet_United_Nations_English.pdf → PDFs/styronal_8440_x_f_safety_data_sheet_united_nations_english.pdf
+https://download.basf.com/p1/000000000030856330_SDS_GEN_00/fr/Styronal%C2%AE_8440_X_F_Safety_Data_Sheet_United_Nations_French.pdf → PDFs/styronal_8440_x_f_safety_data_sheet_united_nations_french.pdf
+https://download.basf.com/p1/000000000030856330_SDS_GEN_00/es/Styronal%C2%AE_8440_X_F_Safety_Data_Sheet_United_Nations_Spanish.pdf → PDFs/styronal_8440_x_f_safety_data_sheet_united_nations_spanish.pdf
+https://download.basf.com/p1/000000000030857638_SDS_GEN_SG/en/MELFLUX_5581_F_MB_Safety_Data_Sheet_Singapore_English.pdf → PDFs/melflux_5581_f_mb_safety_data_sheet_singapore_english.pdf
+https://download.basf.com/p1/000000000030041302_SDS_GEN_MY/ms/ETHYL_ACRYLATE_Safety_Data_Sheet_Malaysia_Malay.pdf → PDFs/ethyl_acrylate_safety_data_sheet_malaysia_malay.pdf
