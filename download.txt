@@ -21853,3 +21853,13 @@ https://download.basf.com/p1/000000000030856330_SDS_GEN_00/fr/Styronal%C2%AE_844
 https://download.basf.com/p1/000000000030856330_SDS_GEN_00/es/Styronal%C2%AE_8440_X_F_Safety_Data_Sheet_United_Nations_Spanish.pdf → PDFs/styronal_8440_x_f_safety_data_sheet_united_nations_spanish.pdf
 https://download.basf.com/p1/000000000030857638_SDS_GEN_SG/en/MELFLUX_5581_F_MB_Safety_Data_Sheet_Singapore_English.pdf → PDFs/melflux_5581_f_mb_safety_data_sheet_singapore_english.pdf
 https://download.basf.com/p1/000000000030041302_SDS_GEN_MY/ms/ETHYL_ACRYLATE_Safety_Data_Sheet_Malaysia_Malay.pdf → PDFs/ethyl_acrylate_safety_data_sheet_malaysia_malay.pdf
+https://download.basf.com/p1/000000000030043702_SDS_GEN_CA/en/Luwax%C2%AE_AL_3_Powder_Safety_Data_Sheet_Canada_English.pdf → PDFs/luwax_al_3_powder_safety_data_sheet_canada_english.pdf
+https://download.basf.com/p1/000000000030043702_SDS_GEN_CA/fr/Luwax%C2%AE_AL_3_Powder_Safety_Data_Sheet_Canada_French.pdf → PDFs/luwax_al_3_powder_safety_data_sheet_canada_french.pdf
+https://download.basf.com/p1/000000000030043702_SDS_GEN_MX/en/Luwax%C2%AE_AL_3_Powder_Safety_Data_Sheet_Mexico_English.pdf → PDFs/luwax_al_3_powder_safety_data_sheet_mexico_english.pdf
+https://download.basf.com/p1/000000000030043702_SDS_GEN_MX/es/Luwax%C2%AE_AL_3_Powder_Safety_Data_Sheet_Mexico_Spanish.pdf → PDFs/luwax_al_3_powder_safety_data_sheet_mexico_spanish.pdf
+https://download.basf.com/p1/000000000030043702_SDS_GEN_US/es/Luwax%C2%AE_AL_3_Powder_Safety_Data_Sheet_USA_Spanish.pdf → PDFs/luwax_al_3_powder_safety_data_sheet_usa_spanish.pdf
+https://download.basf.com/p1/000000000030043686_SDS_GEN_CA/en/Luwax%C2%AE_A_Powder_Safety_Data_Sheet_Canada_English.pdf → PDFs/luwax_a_powder_safety_data_sheet_canada_english.pdf
+https://download.basf.com/p1/000000000030043686_SDS_GEN_CA/fr/Luwax%C2%AE_A_Powder_Safety_Data_Sheet_Canada_French.pdf → PDFs/luwax_a_powder_safety_data_sheet_canada_french.pdf
+https://download.basf.com/p1/000000000030862485_SPE_GEN_P/en/Laromer%C2%AE_LR_8863_CN_Specification_Data_Sheet_English.pdf → PDFs/laromer_lr_8863_cn_specification_data_sheet_english.pdf
+https://download.basf.com/p1/000000000030041244_SDS_GEN_BR/pt/4-Hydroxybutyl_Acrylate_%284-HBA%29_Safety_Data_Sheet_Brazil_Portuguese.pdf → PDFs/4_hydroxybutyl_acrylate_4_hba_safety_data_sheet_brazil_portuguese.pdf
+https://download.basf.com/p1/000000000030041310_SDS_GEN_BR/pt/iso-Butyl_Acrylate_%28IBA%29_Safety_Data_Sheet_Brazil_Portuguese.pdf → PDFs/iso_butyl_acrylate_iba_safety_data_sheet_brazil_portuguese.pdf
