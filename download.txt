@@ -21863,3 +21863,5 @@ https://download.basf.com/p1/000000000030043686_SDS_GEN_CA/fr/Luwax%C2%AE_A_Powd
 https://download.basf.com/p1/000000000030862485_SPE_GEN_P/en/Laromer%C2%AE_LR_8863_CN_Specification_Data_Sheet_English.pdf → PDFs/laromer_lr_8863_cn_specification_data_sheet_english.pdf
 https://download.basf.com/p1/000000000030041244_SDS_GEN_BR/pt/4-Hydroxybutyl_Acrylate_%284-HBA%29_Safety_Data_Sheet_Brazil_Portuguese.pdf → PDFs/4_hydroxybutyl_acrylate_4_hba_safety_data_sheet_brazil_portuguese.pdf
 https://download.basf.com/p1/000000000030041310_SDS_GEN_BR/pt/iso-Butyl_Acrylate_%28IBA%29_Safety_Data_Sheet_Brazil_Portuguese.pdf → PDFs/iso_butyl_acrylate_iba_safety_data_sheet_brazil_portuguese.pdf
+https://download.basf.com/p1/000000000030043686_SDS_GEN_SK/sk/Luwax%C2%AE_A_Powder_Safety_Data_Sheet_Slovakia_Slovak.pdf → PDFs/luwax_a_powder_safety_data_sheet_slovakia_slovak.pdf
+https://download.basf.com/p1/000000000030036706_SDS_GEN_SK/sk/K-Methylate_sol._32__Safety_Data_Sheet_Slovakia_Slovak.pdf → PDFs/k_methylate_sol_32_safety_data_sheet_slovakia_slovak.pdf
