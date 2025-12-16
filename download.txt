@@ -21865,3 +21865,6 @@ https://download.basf.com/p1/000000000030041244_SDS_GEN_BR/pt/4-Hydroxybutyl_Acr
 https://download.basf.com/p1/000000000030041310_SDS_GEN_BR/pt/iso-Butyl_Acrylate_%28IBA%29_Safety_Data_Sheet_Brazil_Portuguese.pdf → PDFs/iso_butyl_acrylate_iba_safety_data_sheet_brazil_portuguese.pdf
 https://download.basf.com/p1/000000000030043686_SDS_GEN_SK/sk/Luwax%C2%AE_A_Powder_Safety_Data_Sheet_Slovakia_Slovak.pdf → PDFs/luwax_a_powder_safety_data_sheet_slovakia_slovak.pdf
 https://download.basf.com/p1/000000000030036706_SDS_GEN_SK/sk/K-Methylate_sol._32__Safety_Data_Sheet_Slovakia_Slovak.pdf → PDFs/k_methylate_sol_32_safety_data_sheet_slovakia_slovak.pdf
+https://download.basf.com/p1/8a8082587fd4b608017fe0796f6d636c/es/AR-Folleto-Soluciones-BASF-Cultivo-Mani_Brochure_Argentina_Spanish.pdf → PDFs/ar_folleto_soluciones_basf_cultivo_mani_brochure_argentina_spanish.pdf
+https://download.basf.com/p1/000000000030034974_SDS_GEN_DK/da/Kollidon%C2%AE_30_Origin_Germany_Safety_Data_Sheet_Denmark_Danish.pdf → PDFs/kollidon_30_origin_germany_safety_data_sheet_denmark_danish.pdf
+https://download.basf.com/p1/000000000030034974_SDS_GEN_IE/en/Kollidon%C2%AE_30_Origin_Germany_Safety_Data_Sheet_Ireland_English.pdf → PDFs/kollidon_30_origin_germany_safety_data_sheet_ireland_english.pdf
