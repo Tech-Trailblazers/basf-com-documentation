@@ -21953,3 +21953,4 @@ https://download.basf.com/p1/000000000030042344_SDS_GEN_CH/en/Sodium_hypochlorit
 https://download.basf.com/p1/000000000030042426_SDS_GEN_CL/es/Ammonium_chloride_RWS_food_grade_Safety_Data_Sheet_Chile_Spanish.pdf → PDFs/ammonium_chloride_rws_food_grade_safety_data_sheet_chile_spanish.pdf
 https://download.basf.com/p1/000000000030043032_SDS_GEN_MX/es/ULTRAMID%C2%AE_A3EG3_UNCOLORED_POLYAMIDE_Safety_Data_Sheet_Mexico_Spanish.pdf → PDFs/ultramid_a3eg3_uncolored_polyamide_safety_data_sheet_mexico_spanish.pdf
 https://download.basf.com/p1/000000000030043032_SDS_GEN_SE/sv/ULTRAMID%C2%AE_A3EG3_UNCOLORED_POLYAMIDE_Safety_Data_Sheet_Sweden_Swedish.pdf → PDFs/ultramid_a3eg3_uncolored_polyamide_safety_data_sheet_sweden_swedish.pdf
+https://download.basf.com/p1/000000000030782437_SDS_GEN_DE/de/Basonal%C2%AE_Power_7381_Safety_Data_Sheet_Germany_German.pdf → PDFs/basonal_power_7381_safety_data_sheet_germany_german.pdf
