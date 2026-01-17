@@ -21963,3 +21963,4 @@ https://download.basf.com/p1/000000000030679962_SDS_GEN_NO/no/Emuldur%C2%AE_381_
 https://download.basf.com/p1/000000000030043032_SDS_GEN_KR/ko/ULTRAMID%C2%AE_A3EG3_UNCOLORED_POLYAMIDE_Safety_Data_Sheet_South_Korea_Korean.pdf → PDFs/ultramid_a3eg3_uncolored_polyamide_safety_data_sheet_south_korea_korean.pdf
 https://download.basf.com/p1/000000000030043035_SDS_GEN_KR/ko/ULTRAMID%C2%AE_A3EG10_UNCOLORED_POLYAMIDE_Safety_Data_Sheet_South_Korea_Korean.pdf → PDFs/ultramid_a3eg10_uncolored_polyamide_safety_data_sheet_south_korea_korean.pdf
 https://download.basf.com/p1/000000000030043073_SDS_GEN_KR/ko/ULTRAMID%C2%AE_A3EG6_BLACK_00564_POLYAMIDE_Safety_Data_Sheet_South_Korea_Korean.pdf → PDFs/ultramid_a3eg6_black_00564_polyamide_safety_data_sheet_south_korea_korean.pdf
+https://download.basf.com/p1/000000000030782437_SDS_GEN_JP/ja/Basonal%C2%AE_Power_7381_Safety_Data_Sheet_Japan_Japanese.pdf → PDFs/basonal_power_7381_safety_data_sheet_japan_japanese.pdf
