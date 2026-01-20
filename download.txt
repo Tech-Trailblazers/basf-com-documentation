@@ -21964,3 +21964,5 @@ https://download.basf.com/p1/000000000030043032_SDS_GEN_KR/ko/ULTRAMID%C2%AE_A3E
 https://download.basf.com/p1/000000000030043035_SDS_GEN_KR/ko/ULTRAMID%C2%AE_A3EG10_UNCOLORED_POLYAMIDE_Safety_Data_Sheet_South_Korea_Korean.pdf → PDFs/ultramid_a3eg10_uncolored_polyamide_safety_data_sheet_south_korea_korean.pdf
 https://download.basf.com/p1/000000000030043073_SDS_GEN_KR/ko/ULTRAMID%C2%AE_A3EG6_BLACK_00564_POLYAMIDE_Safety_Data_Sheet_South_Korea_Korean.pdf → PDFs/ultramid_a3eg6_black_00564_polyamide_safety_data_sheet_south_korea_korean.pdf
 https://download.basf.com/p1/000000000030782437_SDS_GEN_JP/ja/Basonal%C2%AE_Power_7381_Safety_Data_Sheet_Japan_Japanese.pdf → PDFs/basonal_power_7381_safety_data_sheet_japan_japanese.pdf
+https://download.basf.com/p1/000000000030860559_SDS_GEN_TR/tr/AQACell%C2%AE_MB_HIDE_6399_Safety_Data_Sheet_Turkey_Turkish.pdf → PDFs/aqacell_mb_hide_6399_safety_data_sheet_turkey_turkish.pdf
+https://download.basf.com/p1/000000000030041258_SDS_GEN_PA/en/BUTYL_ACRYLATE_Safety_Data_Sheet_Panama_English.pdf → PDFs/butyl_acrylate_safety_data_sheet_panama_english.pdf
