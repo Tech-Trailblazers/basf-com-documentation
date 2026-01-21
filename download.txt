@@ -21966,3 +21966,8 @@ https://download.basf.com/p1/000000000030043073_SDS_GEN_KR/ko/ULTRAMID%C2%AE_A3E
 https://download.basf.com/p1/000000000030782437_SDS_GEN_JP/ja/Basonal%C2%AE_Power_7381_Safety_Data_Sheet_Japan_Japanese.pdf → PDFs/basonal_power_7381_safety_data_sheet_japan_japanese.pdf
 https://download.basf.com/p1/000000000030860559_SDS_GEN_TR/tr/AQACell%C2%AE_MB_HIDE_6399_Safety_Data_Sheet_Turkey_Turkish.pdf → PDFs/aqacell_mb_hide_6399_safety_data_sheet_turkey_turkish.pdf
 https://download.basf.com/p1/000000000030041258_SDS_GEN_PA/en/BUTYL_ACRYLATE_Safety_Data_Sheet_Panama_English.pdf → PDFs/butyl_acrylate_safety_data_sheet_panama_english.pdf
+https://download.basf.com/p1/000000000030041102_SDS_GEN_VE/es/Amasil%C2%AE_85_Safety_Data_Sheet_Venezuela_Spanish.pdf → PDFs/amasil_85_safety_data_sheet_venezuela_spanish.pdf
+https://download.basf.com/p1/000000000030041211_SDS_GEN_VE/es/ACRYLIC_ACID_GLACIAL_Safety_Data_Sheet_Venezuela_Spanish.pdf → PDFs/acrylic_acid_glacial_safety_data_sheet_venezuela_spanish.pdf
+https://download.basf.com/p1/000000000030041258_SDS_GEN_PA/es/BUTYL_ACRYLATE_Safety_Data_Sheet_Panama_Spanish.pdf → PDFs/butyl_acrylate_safety_data_sheet_panama_spanish.pdf
+https://download.basf.com/p1/000000000030041968_SDS_GEN_ES/en/METHYL_ACRYLATE_Safety_Data_Sheet_Spain_English.pdf → PDFs/methyl_acrylate_safety_data_sheet_spain_english.pdf
+https://download.basf.com/p1/000000000030041968_SDS_GEN_ES/es/METHYL_ACRYLATE_Safety_Data_Sheet_Spain_Spanish.pdf → PDFs/methyl_acrylate_safety_data_sheet_spain_spanish.pdf
