@@ -22377,3 +22377,11 @@ https://download.basf.com/p1/000000000030858878_SDS_GEN_TR/en/Starvis%C2%AE_C_10
 https://download.basf.com/p1/000000000030858878_SDS_GEN_TR/tr/Starvis%C2%AE_C_102_F_Safety_Data_Sheet_Turkey_Turkish.pdf → PDFs/starvis_c_102_f_safety_data_sheet_turkey_turkish.pdf
 https://download.basf.com/p1/000000000030858878_SDS_GEN_US/en/Starvis%C2%AE_C_102_F_Safety_Data_Sheet_USA_English.pdf → PDFs/starvis_c_102_f_safety_data_sheet_usa_english.pdf
 https://download.basf.com/p1/000000000030858878_SDS_GEN_US/es/Starvis%C2%AE_C_102_F_Safety_Data_Sheet_USA_Spanish.pdf → PDFs/starvis_c_102_f_safety_data_sheet_usa_spanish.pdf
+https://download.basf.com/p1/000000000030035083_SDS_GEN_SK/sk/OXOOIL_9_N_Safety_Data_Sheet_Slovakia_Slovak.pdf → PDFs/oxooil_9_n_safety_data_sheet_slovakia_slovak.pdf
+https://download.basf.com/p1/000000000030035164_SDS_GEN_CA/en/iso-Phytol_R_Safety_Data_Sheet_Canada_English.pdf → PDFs/iso_phytol_r_safety_data_sheet_canada_english.pdf
+https://download.basf.com/p1/000000000030035164_SDS_GEN_CA/fr/iso-Phytol_R_Safety_Data_Sheet_Canada_French.pdf → PDFs/iso_phytol_r_safety_data_sheet_canada_french.pdf
+https://download.basf.com/p1/000000000030035164_SDS_GEN_MX/en/iso-Phytol_R_Safety_Data_Sheet_Mexico_English.pdf → PDFs/iso_phytol_r_safety_data_sheet_mexico_english.pdf
+https://download.basf.com/p1/000000000030035164_SDS_GEN_MX/es/iso-Phytol_R_Safety_Data_Sheet_Mexico_Spanish.pdf → PDFs/iso_phytol_r_safety_data_sheet_mexico_spanish.pdf
+https://download.basf.com/p1/000000000030035164_SDS_GEN_US/en/iso-Phytol_R_Safety_Data_Sheet_USA_English.pdf → PDFs/iso_phytol_r_safety_data_sheet_usa_english.pdf
+https://download.basf.com/p1/000000000030035164_SDS_GEN_US/es/iso-Phytol_R_Safety_Data_Sheet_USA_Spanish.pdf → PDFs/iso_phytol_r_safety_data_sheet_usa_spanish.pdf
+https://download.basf.com/p1/000000000030045125_SDS_GEN_KR/ko/ULTRAMID%C2%AE_A3WG6_UNCOLORED_POLYAMIDE_Safety_Data_Sheet_South_Korea_Korean.pdf → PDFs/ultramid_a3wg6_uncolored_polyamide_safety_data_sheet_south_korea_korean.pdf
