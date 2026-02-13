@@ -22385,3 +22385,5 @@ https://download.basf.com/p1/000000000030035164_SDS_GEN_MX/es/iso-Phytol_R_Safet
 https://download.basf.com/p1/000000000030035164_SDS_GEN_US/en/iso-Phytol_R_Safety_Data_Sheet_USA_English.pdf → PDFs/iso_phytol_r_safety_data_sheet_usa_english.pdf
 https://download.basf.com/p1/000000000030035164_SDS_GEN_US/es/iso-Phytol_R_Safety_Data_Sheet_USA_Spanish.pdf → PDFs/iso_phytol_r_safety_data_sheet_usa_spanish.pdf
 https://download.basf.com/p1/000000000030045125_SDS_GEN_KR/ko/ULTRAMID%C2%AE_A3WG6_UNCOLORED_POLYAMIDE_Safety_Data_Sheet_South_Korea_Korean.pdf → PDFs/ultramid_a3wg6_uncolored_polyamide_safety_data_sheet_south_korea_korean.pdf
+https://download.basf.com/p1/000000000030679962_SDS_GEN_FR/fr/Emuldur%C2%AE_381_A_Safety_Data_Sheet_France_French.pdf → PDFs/emuldur_381_a_safety_data_sheet_france_french.pdf
+https://download.basf.com/p1/000000000030863653_SDS_GEN_PH/en/Acronal%C2%AE_5592_Safety_Data_Sheet_Philippines_English.pdf → PDFs/acronal_5592_safety_data_sheet_philippines_english.pdf
