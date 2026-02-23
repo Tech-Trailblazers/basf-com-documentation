@@ -22625,3 +22625,6 @@ https://download.basf.com/p1/000000000030042276_SDS_GEN_CH/en/CHLORINE_LIQUID_Sa
 https://download.basf.com/p1/000000000030042276_SDS_GEN_CH/fr/CHLORINE_LIQUID_Safety_Data_Sheet_Switzerland_French.pdf → PDFs/chlorine_liquid_safety_data_sheet_switzerland_french.pdf
 https://download.basf.com/p1/000000000030042276_SDS_GEN_CH/de/CHLORINE_LIQUID_Safety_Data_Sheet_Switzerland_German.pdf → PDFs/chlorine_liquid_safety_data_sheet_switzerland_german.pdf
 https://download.basf.com/p1/000000000030042276_SDS_GEN_CH/it/CHLORINE_LIQUID_Safety_Data_Sheet_Switzerland_Italian.pdf → PDFs/chlorine_liquid_safety_data_sheet_switzerland_italian.pdf
+https://download.basf.com/p1/000000000030631739_SDS_GEN_BE/nl/Luphen%C2%AE_3644_Safety_Data_Sheet_Belgium_Dutch.pdf → PDFs/luphen_3644_safety_data_sheet_belgium_dutch.pdf
+https://download.basf.com/p1/000000000030631739_SDS_GEN_BE/fr/Luphen%C2%AE_3644_Safety_Data_Sheet_Belgium_French.pdf → PDFs/luphen_3644_safety_data_sheet_belgium_french.pdf
+https://download.basf.com/p1/000000000030631739_SDS_GEN_BE/de/Luphen%C2%AE_3644_Safety_Data_Sheet_Belgium_German.pdf → PDFs/luphen_3644_safety_data_sheet_belgium_german.pdf
